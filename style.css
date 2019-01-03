@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+}
+
+.login-container{
+    text-align: center;
+}
+.active{
+    text-align: center;
+}
+
+.topnav{
+    color: green;
+    margin: auto;
+    text-align: center;
+}
+
+body{
+    background-image: url("101_0022.JPG");
+    background-size: cover;
+}
+
+nav{
+    text-align: center;
+}
+button{
+    margin: auto;
+}
+
+
